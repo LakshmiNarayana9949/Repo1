@@ -1,0 +1,28 @@
+Techademy_IIHT Credentials
+-----------------------------------------------------------
+https://techademy.in/cognizanthtd 
+Username: PerlaLakshmi.Narayana@cognizant.com
+Password: 4a69f4fe52284709
+
+
+Another VM details
+-----------------------------------------------------------
+https://vs.iiht.tech/logon/LogonPoint/index.html
+cogdotnet06
+pass@word1
+
+
+Azure credentials
+-----------------------
+https://portal.azure.com
+bc_wallet_220502_wuw3v8apui@BuilderCloudProvisioning.onmicrosoft.com
+Mbv5A1CI!
+
+
+Azure balance check
+-----------------------------------
+https://iihtedu.cloud.builder.ai/
+perlalakshmi.n@mml.local
+uYjtkMSg
+
+787577
