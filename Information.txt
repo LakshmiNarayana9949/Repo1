@@ -26,3 +26,19 @@ perlalakshmi.n@mml.local
 uYjtkMSg
 
 787577
+
+virtual machine
+-------------------------
+LakshmiNarayana
+Lakshmi@9949
+
+sql server
+------------------------
+lnazure
+ln
+Lakshmi@9949
+
+
+appservice
+---------------------
+LNApp
