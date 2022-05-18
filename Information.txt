@@ -34,9 +34,12 @@ Lakshmi@9949
 
 sql server
 ------------------------
-lnazure
-ln
-Lakshmi@9949
+lnazure.database.windows.net
+server name : lnazure
+username: ln
+password: Lakshmi@9949
+
+DBName: TestPub
 
 
 appservice
